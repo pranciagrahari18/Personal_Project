@@ -1,1 +1,5 @@
 print("Nishu")
+print("Pranci")
+print("Tanna")
+print("Nikhil")
+print("Love")
